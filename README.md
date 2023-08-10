@@ -1,25 +1,14 @@
 <div align="center">
-  <!-- dynamic typing effect 动态打字效果 -->
-  <div align="left">  
-
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Hi, I'am SLNY!&center=true&size=27" alt="Typing SVG" />     🔄  ❓
-
+ <!-- dynamic typing effect 动态打字效果 -->
+  <div align="center">
+    <a href="https://blog.sunguoqi.com/">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20SLNY%22);Hi, SLNY!&center=true&size=27" alt="Typing SVG" /> 
+    </a>
   </div>
-  ![](https://github-readme-stats.vercel.app/api?username=SLNY1921394421) 
-
   
-
-
-<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" /> 
-  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-</picture>
-
 </div>
 
-#  🙋 Hello
+#  🙋 Hello 
 
 <table>
 <tr><td>
@@ -59,12 +48,12 @@
 
 ### 🧠 Second Brain
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" /> 
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" />  
 
 <!-- START_SECTION:brain -->
 
 * 
-  <!-- END_SECTION:brain -->
+  <!-- END_SECTION:brain --> 
 
 </td></tr>
 
@@ -74,7 +63,7 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/artist.png" />
 
-<!-- START_SECTION:douban --> 
+<!-- START_SECTION:douban -->  
 * 
   <!-- END_SECTION:douban -->
 
@@ -84,11 +73,24 @@
 
 </td></tr> 
 </table>
+ <div>  
+    <img width="200%" src="https://github-readme-stats.vercel.app/api?username=SLNY1921394421" alt="Typing SVG" />  
+  </div>
+
+  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+</picture>
+
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" /> 
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />   
 
-<div align="center" >
+
+
+<div align="center" > 
 
 
 <!-- just img 图片 -->
@@ -107,7 +109,7 @@
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat) 
 ![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat) 
 ![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=flat) 
-![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat) 
+![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)  
 
 
 

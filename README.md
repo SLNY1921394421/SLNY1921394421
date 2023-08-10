@@ -2,62 +2,44 @@
  <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
     <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20SLNY%22);Hi, SLNY!&center=true&size=27" alt="Typing SVG" /> 
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20SLNY%22);Hi, SLNY!&center=true&size=27" alt="Typing SVG" />  
     </a>
   </div>
   
 </div>
 
-#  🙋 Hello  
-
-<table>  
-<tr>
+#  🙋 Hello
+<table>   
+<tr> 
  <td>  
 
 <!-- About me 关于我 -->
-### 🤺 About Me 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" /> 
-
+### 🤺 About Me  
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" />  
 <p>&emsp;&emsp;Hi,I'am SLNY</p>
-
-<p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p> 
-
-</td></tr>  
-
-<tr>
-<td>
-
-### 🏢 Work Experience 
-
-----
-
-</td>
-</tr>
-
-<tr><td> 
+<p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>  
+</td></tr>
+<tr> 
+<td> 
 
 <!-- 近期博客 -->
-### 📃 Work Experience
+### 📃 Work Experience   
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" /> 
-
-<!-- START_SECTION:blog -->
-<!-- END_SECTION:blog --> 
-
-</td></tr>
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />   
+<!-- START_SECTION:brain -->   
+* 
+  <!-- END_SECTION:brain -->  
+</td></tr> 
 
 <tr><td>
 
-### 🧠 Recent Blog
+### 🧠 Recent Blog 
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" />  
-
-<!-- START_SECTION:brain --> 
-
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" />   
+<!-- START_SECTION:brain -->   
 * 
-  <!-- END_SECTION:brain --> 
-
-</td></tr>
+<!-- END_SECTION:brain -->  
+</td></tr> 
 
 <tr><td>
 
@@ -65,24 +47,24 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/artist.png" />
 
-<!-- START_SECTION:douban -->  
+<!-- START_SECTION:douban -->   
 * 
-  <!-- END_SECTION:douban -->
+  <!-- END_SECTION:douban --> 
 
 </td></tr> 
 
-<tr><td>  
+<tr><td>   
 
 </td></tr> 
 </table>
  <div>  
-    <img width="200%" src="https://github-readme-stats.vercel.app/api?username=SLNY1921394421" alt="Typing SVG" />   
+    <img width="200%" src="https://github-readme-stats.vercel.app/api?username=SLNY1921394421" alt="Typing SVG" />    
   </div>
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" /> 
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" /> 
   <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 </picture>
 

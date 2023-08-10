@@ -11,31 +11,27 @@
 #  🙋 Hello
 <table>   
 <tr> 
- <td>  
+ <td>   
 
 <!-- About me 关于我 -->
-### 🤺 About Me  
+### 🤺 About Me   
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" />  
-<p>&emsp;&emsp;Hi,I'am SLNY</p>
-<p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>  
+<p>&emsp;&emsp;Hi,I'am SLNY</p> 
+<p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>   
 </td></tr>
 <tr> 
 <td> 
 
 <!-- 近期博客 -->
-### 📃 Work Experience   
+### 📃 Work Experience    
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />   
-<!-- START_SECTION:brain -->   
-* 
-  <!-- END_SECTION:brain -->  
-</td></tr> 
-
-<tr><td>
+<img align="right" float="right" vertical-align="top" width="88px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />       
+</td></tr>
+<tr><td> 
 
 ### 🧠 Recent Blog 
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" />   
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" />    
 <!-- START_SECTION:brain -->   
 * 
 <!-- END_SECTION:brain -->  

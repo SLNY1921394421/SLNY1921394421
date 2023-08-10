@@ -2,7 +2,7 @@
  <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
     <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20SLNY%22);Hi, SLNY!&center=true&size=27" alt="Typing SVG" />  
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20SLNY%22);Hi, SLNY!&center=true&size=27" alt="Typing SVG" />   
     </a>
   </div>
   
@@ -25,16 +25,19 @@
 <!-- 近期博客 -->
 ### 📃 Work Experience    
 
-<img align="right" float="right" vertical-align="top" width="88px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />       
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
+<!-- START_SECTION:brain -->    
+* 
+<!-- END_SECTION:brain -->
 </td></tr>
 <tr><td> 
 
 ### 🧠 Recent Blog 
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" />    
-<!-- START_SECTION:brain -->   
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" />     
+<!-- START_SECTION:brain -->    
 * 
-<!-- END_SECTION:brain -->  
+<!-- END_SECTION:brain -->   
 </td></tr> 
 
 <tr><td>
@@ -47,7 +50,7 @@
 * 
   <!-- END_SECTION:douban --> 
 
-</td></tr> 
+</td></tr>  
 
 <tr><td>   
 

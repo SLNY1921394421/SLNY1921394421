@@ -1,19 +1,22 @@
 <div align="center">
 
   <!-- dynamic typing effect 动态打字效果 -->
-   
+  <div align="center">
+
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Hi, I'am SLNY!&center=true&size=27" alt="Typing SVG" />  
+
+  </div>
 
 
   <!-- knock code pictures 敲代码的图片 -->
-
-
+  
   
 
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" /> 
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 </picture>
 
@@ -28,14 +31,15 @@
 ### 🤺 About Me
 
 
-<p>&emsp;&emsp;Hi,I'am SLNY</p>
+<p>&emsp;&emsp;Hi,I'am SLNY</p>  
+<p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>  
 
 </td></tr> 
 
 <tr>
 <td>
 
-### 🏢 Work Experience  
+### 🏢 Work Experience
 
 ----
 
@@ -47,7 +51,7 @@
 <!-- 近期博客 -->
 ### 📃 Recent Blog
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" /> 
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- START_SECTION:blog -->
 <!-- END_SECTION:blog -->
@@ -58,7 +62,7 @@
 
 ### 🧠 Second Brain
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" />
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" /> 
 
 <!-- START_SECTION:brain -->
 
@@ -73,26 +77,15 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/artist.png" />
 
-<!-- START_SECTION:douban -->
+<!-- START_SECTION:douban --> 
 * 
   <!-- END_SECTION:douban -->
 
-</td></tr>
+</td></tr> 
 
-<tr><td>
+<tr><td>  
 
-<!-- wakatime 统计 -->
-
-
- 
-
-</td></tr>
-
-<tr><td>
-
-
-
-</td></tr>
+</td></tr> 
 </table>
 
 <!-- ########################################## 分割 ########################################## -->
@@ -102,7 +95,6 @@
 
 
 <!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
 
 <!--  skill badge 技能徽章 -->
 💪 正在学习
@@ -110,7 +102,7 @@
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
-![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
+![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat) 
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=flat)

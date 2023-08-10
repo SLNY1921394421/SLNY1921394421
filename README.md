@@ -1,15 +1,11 @@
 <div align="center">
 
   <!-- dynamic typing effect 动态打字效果 -->
-  <div align="center">
-
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Hi, I'am SLNY!&center=true&size=27" alt="Typing SVG" />
-
-  </div>
+   
 
 
   <!-- knock code pictures 敲代码的图片 -->
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br> 
 
   
 
@@ -17,7 +13,7 @@
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" /> 
   <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 </picture>
 
@@ -31,17 +27,15 @@
 <!-- About me 关于我 -->
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/steven.png" />
 
 <p>&emsp;&emsp;Hi,I'am SLNY</p>
-<p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 
-</td></tr>
+</td></tr> 
 
 <tr>
 <td>
 
-### 🏢 Work Experience
+### 🏢 Work Experience  
 
 ----
 
@@ -53,7 +47,7 @@
 <!-- 近期博客 -->
 ### 📃 Recent Blog
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" /> 
 
 <!-- START_SECTION:blog -->
 <!-- END_SECTION:blog -->
@@ -88,77 +82,21 @@
 <tr><td>
 
 <!-- wakatime 统计 -->
-### 📊 WakaTime
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
-</picture>
+
+ 
 
 </td></tr>
 
 <tr><td>
 
-<!--START_SECTION:waka-->
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                519 commits         ██████░░░░░░░░░░░░░░░░░░░   24.56 % 
-🌆 Daytime                675 commits         ████████░░░░░░░░░░░░░░░░░   31.95 % 
-🌃 Evening                627 commits         ███████░░░░░░░░░░░░░░░░░░   29.67 % 
-🌙 Night                  292 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   256 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-Tuesday                  195 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
-Wednesday                298 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
-Thursday                 246 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
-Friday                   626 commits         ███████░░░░░░░░░░░░░░░░░░   29.63 % 
-Saturday                 183 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
-Sunday                   309 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Vue.js                   11 hrs 18 mins      ████████████░░░░░░░░░░░░░   46.54 % 
-Markdown                 7 hrs 54 mins       ████████░░░░░░░░░░░░░░░░░   32.56 % 
-JSON                     1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
-TypeScript               1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
-Other                    49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
-
-🔥 Editors: 
-VS Code                  23 hrs 31 mins      ████████████████████████░   96.80 % 
-Obsidian                 40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-IntelliJ                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-
-💻 Operating System: 
-Windows                  24 hrs 2 mins       █████████████████████████   98.94 % 
-Mac                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
-```
-
-
- Last Updated on 10/08/2023 01:23:51 UTC
-<!--END_SECTION:waka-->
 
 </td></tr>
 </table>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" /> 
 
 <div align="center" >
 

@@ -1,17 +1,12 @@
 <div align="center">
-<div>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Hi, I'am SLNY!&center=true&size=27" alt="Typing SVG" />
-</div>
   <!-- dynamic typing effect 动态打字效果 -->
-  <div align="left"> 
+  <div align="left">  
 
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Hi, I'am SLNY!&center=true&size=27" alt="Typing SVG" />   
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Hi, I'am SLNY!&center=true&size=27" alt="Typing SVG" />    
 
   </div>
+  ![](https://github-readme-stats.vercel.app/api?username=mayandev)
 
-
-  <!-- knock code pictures 敲代码的图片 -->
-  
   
 
 

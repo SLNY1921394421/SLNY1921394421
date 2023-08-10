@@ -8,49 +8,51 @@
   
 </div>
 
-#  🙋 Hello 
+#  🙋 Hello  
 
-<table>
-<tr><td>
+<table>  
+<tr>
+ <td>  
 
 <!-- About me 关于我 -->
-### 🤺 About Me
+### 🤺 About Me 
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" /> 
 
+<p>&emsp;&emsp;Hi,I'am SLNY</p>
 
-<p>&emsp;&emsp;Hi,I'am SLNY</p>  
-<p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>  
+<p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p> 
 
-</td></tr> 
+</td></tr>  
 
 <tr>
 <td>
 
-### 🏢 Work Experience
+### 🏢 Work Experience 
 
 ----
 
 </td>
 </tr>
 
-<tr><td>
+<tr><td> 
 
 <!-- 近期博客 -->
-### 📃 Recent Blog
+### 📃 Work Experience
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" /> 
 
 <!-- START_SECTION:blog -->
-<!-- END_SECTION:blog -->
+<!-- END_SECTION:blog --> 
 
 </td></tr>
 
 <tr><td>
 
-### 🧠 Second Brain
+### 🧠 Recent Blog
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" />  
 
-<!-- START_SECTION:brain -->
+<!-- START_SECTION:brain --> 
 
 * 
   <!-- END_SECTION:brain --> 
@@ -59,7 +61,7 @@
 
 <tr><td>
 
-### 🤾‍♂️ Funny Soul
+### 🤾‍♂️ Second Brain
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/artist.png" />
 
@@ -74,7 +76,7 @@
 </td></tr> 
 </table>
  <div>  
-    <img width="200%" src="https://github-readme-stats.vercel.app/api?username=SLNY1921394421" alt="Typing SVG" />  
+    <img width="200%" src="https://github-readme-stats.vercel.app/api?username=SLNY1921394421" alt="Typing SVG" />   
   </div>
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
@@ -86,7 +88,7 @@
 
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />   
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />    
 
 
 
@@ -100,7 +102,7 @@
 
 ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)   
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
-![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat) 
+![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)  
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)  
 
